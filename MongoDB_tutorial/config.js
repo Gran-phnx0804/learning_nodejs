@@ -1,1 +1,0 @@
-exports.url = "mongodb+srv://gr4n_sajitami:Phn1x_sync@cluster0.eh1pwye.mongodb.net/food?retryWrites=true&w=majority&appName=Cluster0";
